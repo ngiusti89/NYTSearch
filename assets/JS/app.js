@@ -1,7 +1,1 @@
-$(document).ready(function () {
-
-    function  buildHtml(){
-        
-    }
-
-});
+//dont use this.... use main.js
